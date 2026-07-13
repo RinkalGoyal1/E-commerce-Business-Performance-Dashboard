@@ -1,9 +1,8 @@
-1. Project Title/Headline
+1. Project Title/Headline :
 E-commerce Operations & Data Analytics Dashboard
-
 A Power BI dashboard built using the Olist Brazilian E-commerce dataset (100K+ orders) to analyze sales performance, customer behaviour, product trends, and operational KPIs through interactive visualizations and DAX-driven insights.
 
-2. Overview
+2. Overview :
 This project is an interactive Power BI dashboard developed using the Olist Brazilian E-commerce dataset containing over 100,000 orders. The dashboard transforms raw transactional data into actionable business insights using Power Query, data modeling, DAX measures, and interactive visualizations.
 
 3. Objectives
@@ -57,5 +56,5 @@ This project is an interactive Power BI dashboard developed using the Olist Braz
 - Data Visualization
 - Analytical Thinking
 
-9. Project Outcome
+9. Project Outcome :
 The dashboard enables business users to monitor operational performance, identify sales opportunities, understand customer behavior, and make data-driven decisions through an intuitive and interactive reporting solution.
