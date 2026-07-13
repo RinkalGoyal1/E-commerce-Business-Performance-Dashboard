@@ -1,11 +1,12 @@
 1. Project Title/Headline
 E-commerce Operations & Data Analytics Dashboard
+
 A Power BI dashboard built using the Olist Brazilian E-commerce dataset (100K+ orders) to analyze sales performance, customer behaviour, product trends, and operational KPIs through interactive visualizations and DAX-driven insights.
 
 2. Overview
 This project is an interactive Power BI dashboard developed using the Olist Brazilian E-commerce dataset containing over 100,000 orders. The dashboard transforms raw transactional data into actionable business insights using Power Query, data modeling, DAX measures, and interactive visualizations.
 
-2. Objectives
+3. Objectives
 - Monitor overall business performance through key KPIs.
 - Analyze sales trends over time.
 - Identify top-performing product categories and products.
@@ -13,18 +14,18 @@ This project is an interactive Power BI dashboard developed using the Olist Braz
 - Track operational metrics such as order status and delivery performance.
 - Provide decision-makers with an interactive dashboard for business analysis.
 
-3. Dataset
+4. Dataset
 - Olist Brazilian E-commerce Public Dataset
 - 100,000+ Orders
 - Multiple related tables connected using a Schema
 
-4. Tools Used
+5. Tools Used
 - Microsoft Power BI
 - Power Query
 - DAX
 - Data Modelling 
 
-5. Dashboard Features
+6. Dashboard Features
 - Executive KPI Cards
 - Sales Trend Analysis
 - Revenue by Category
@@ -35,7 +36,7 @@ This project is an interactive Power BI dashboard developed using the Olist Braz
 - Interactive Slicers
 - Drill-through Analysis
 
-6. Key KPIs
+7. Key KPIs
 - Total Revenue
 - Total Orders
 - Total Customers
@@ -45,7 +46,7 @@ This project is an interactive Power BI dashboard developed using the Olist Braz
 - Top Performing State
 - Customer Growth
 
-7. Skills Demonstrated
+8. Skills Demonstrated
 - Data Cleaning
 - Data Transformation
 - Data Modelling
@@ -56,5 +57,5 @@ This project is an interactive Power BI dashboard developed using the Olist Braz
 - Data Visualization
 - Analytical Thinking
 
-8. Project Outcome
+9. Project Outcome
 The dashboard enables business users to monitor operational performance, identify sales opportunities, understand customer behavior, and make data-driven decisions through an intuitive and interactive reporting solution.
